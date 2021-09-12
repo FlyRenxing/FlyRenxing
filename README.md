@@ -3,10 +3,15 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyRenxing&theme=dark&layout=compact)
 
 ### Hi there 👋
+
 该用户谢绝使用百度搜寻网络。
+
 此用户对现有中国教育制度表示强烈不满。
+
 此用户反对读书无用论。
+
 Chinglish-0	This user can speak English correctly.这个用户能正确地说英文。
+
 这个用户兴趣广泛，无所不读。
 这个用户对电脑程序感兴趣。
 该用户使用Linux。

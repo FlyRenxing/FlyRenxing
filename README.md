@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=FlyRenxing&show_icons=true&theme=default&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyRenxing&theme=default&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=FlyRenxing&show_icons=true&theme=default&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyRenxing&theme=default&layout=default)
 
 ### Hi there 👋
 

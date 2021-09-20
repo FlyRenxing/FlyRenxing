@@ -2,14 +2,6 @@
 
 ### Hi there 👋 ,This is 会飞的任性
 
-该用户谢绝使用百度搜寻网络。
-
-此用户对现有中国教育制度表示强烈不满。
-
-此用户反对读书无用论。
-
-Chinglish-0	This user can speak English correctly.这个用户能正确地说英文。
-
 这个用户兴趣广泛，无所不读。
 
 这个用户对电脑程序感兴趣。
@@ -19,10 +11,6 @@ Chinglish-0	This user can speak English correctly.这个用户能正确地说英
 这个用户知道0.999…就是1。
 
 该用户不喜欢微信和QQ。
-
-这个用户很宅。
-
-这个用户认为自己过分怀旧。
 
 这个用户不吸烟。
 

@@ -14,7 +14,7 @@
 
 🚭这个用户不吸烟。
 
-🌃这个用户昼夜不分、罔顾时间更替。00:00↔24:00
+🌃这个用户昼夜不分、罔顾时间更替。
 
 🧱这个用户不满中国大陆对互联网的审查和封锁。F**k GFW!	
 
@@ -30,4 +30,4 @@
 
 🫠这个用户认为知易行难。
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyRenxing&theme=default&layout=compact" style="width: 40%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyRenxing&theme=default&layout=compact" >
